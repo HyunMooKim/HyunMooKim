@@ -1,32 +1,32 @@
-# Hello! 👋 I'm Kim Hyun Moo.
+## Hello! 👋 I'm Kim Hyun Moo.
 
-## Education
+### Education
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
 
-## Skills ⚡
-- Programming Languages: Python, C
+### Skills ⚡
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), C
 - Web Technologies: HTML, PHP
   
-## Experience with 
+### Experience with 
 - Frameworks: Django, Flutter, Excel
 
-## Interests 
+### Interests 
 - Machine learning and data science
 - Web/app development
 
-## Projects 
+### Projects 
 - http://kimhyunmoo.pythonanywhere.com/ 
 
-## Contact Me 
+### Contact Me 
 - Email: hyunmoo0310@gmail.com
 
-## My GitHub Stats
+### My GitHub Stats
 ![HyunMooKim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyunMooKim&show_icons=true&theme=dark)
 
-## Contributions
+### Contributions
 ![HyunMooKim's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=HyunMooKim&theme=dark)
 
-## Top Languages
+### Top Languages
 ![HyunMooKim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMooKim&layout=compact&theme=dark)
 
 
