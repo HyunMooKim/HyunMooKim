@@ -4,11 +4,11 @@
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
 
 ### Skills ⚡
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), C
-- Web Technologies: HTML, PHP
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
+- Web Technologies: ![HTML](https://img.shields.io/badge/-HTML-orange), ![PHP](https://img.shields.io/badge/-PHP-purple)
   
 ### Experience with 
-- Frameworks: Django, Flutter, Excel
+- Frameworks: ![Django](https://img.shields.io/badge/-Django-green), ![Flutter](https://img.shields.io/badge/-Flutter-blue), Excel
 
 ### Interests 
 - Machine learning and data science
