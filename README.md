@@ -5,7 +5,7 @@
 
 ### Skills 
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
-- Web Technologies: ![HTML](https://img.shields.io/badge/-HTML-orange), ![PHP](https://img.shields.io/badge/-PHP-purple)
+- Web Technologies: ![PHP](https://img.shields.io/badge/-PHP-purple)
   
 ### Experience with 
 - Frameworks: ![Django](https://img.shields.io/badge/-Django-green), ![Flutter](https://img.shields.io/badge/-Flutter-blue), Excel
