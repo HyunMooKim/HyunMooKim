@@ -2,18 +2,7 @@
 
 ### Education
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
-<!--
-### Skills 
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
-- Web Technologies: ![PHP](https://img.shields.io/badge/-PHP-purple)
-  
-### Experience with 
-- Frameworks: ![Django](https://img.shields.io/badge/-Django-green), ![Flutter](https://img.shields.io/badge/-Flutter-blue), Excel
 
-### Interests 
-- Machine learning and data science
-- Web/app development
--->
 ### Projects ⚡
 - http://kimhyunmoo.pythonanywhere.com/ 
 
@@ -29,7 +18,18 @@
 ### Top Languages
 ![HyunMooKim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMooKim&layout=compact&theme=dark)
 
+<!--
+### Skills 
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
+- Web Technologies: ![PHP](https://img.shields.io/badge/-PHP-purple)
+  
+### Experience with 
+- Frameworks: ![Django](https://img.shields.io/badge/-Django-green), ![Flutter](https://img.shields.io/badge/-Flutter-blue), Excel
 
+### Interests 
+- Machine learning and data science
+- Web/app development
+-->
 <!--
 **HyunMooKim/HyunMooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
