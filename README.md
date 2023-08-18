@@ -9,6 +9,8 @@
 ### Contact Me 
 - Email: hyunmoo0310@gmail.com
 
+
+<!--
 ### My GitHub Stats
 ![HyunMooKim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyunMooKim&show_icons=true&theme=dark)
 
@@ -17,7 +19,7 @@
 
 ### Top Languages
 ![HyunMooKim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMooKim&layout=compact&theme=dark)
-
+-->
 <!--
 ### Skills 
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
