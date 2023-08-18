@@ -2,7 +2,7 @@
 
 ### Education
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
-
+<!--
 ### Skills 
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue), ![C](https://img.shields.io/badge/-C-orange)
 - Web Technologies: ![PHP](https://img.shields.io/badge/-PHP-purple)
@@ -13,7 +13,7 @@
 ### Interests 
 - Machine learning and data science
 - Web/app development
-
+-->
 ### Projects ⚡
 - http://kimhyunmoo.pythonanywhere.com/ 
 
