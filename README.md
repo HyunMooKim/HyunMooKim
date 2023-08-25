@@ -3,11 +3,9 @@
 ### Education
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
 
-### Projects ⚡
+### ⚡ Projects ⚡
 - http://kimhyunmoo.pythonanywhere.com/ 
 
-### Contact Me 
-- Email: hyunmoo0310@gmail.com
 
 
 <!--
