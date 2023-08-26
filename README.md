@@ -1,8 +1,8 @@
 ## Hello! 👋 I'm Kim Hyun Moo.
-
+<!--
 ### Education
 - (in progress)Bachelor's Degree in Food&Resource Economics, Computer Science from Korea University (2017~)
-
+-->
 ### ⚡ Projects ⚡
 - http://kimhyunmoo.pythonanywhere.com/ 
 
